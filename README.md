@@ -42,6 +42,6 @@ I work on core LLM technologies, as well as LLMs and VLMs (Vision Language Model
 The image below shows a visualization of input influence within an LLM using a technique called **Circuit Tracing**. In this repository, I also cover other fundamental LLM technologies and development methods for VLMs.
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/eb618973e2740780b716a32ea8f1d4b0f9815bf2b32216ac80c73c77139b2eee/68747470733a2f2f63646e2d616b2e662e73742d686174656e612e636f6d2f696d616765732f666f746f6c6966652f792f796f7368697368696e6e7a652f32303236303530312f32303236303530313038313030392e706e67" width="400px">
+  <img src="https://camo.githubusercontent.com/f869202d98991e93ae6b2c89acdcba817c177ca3c238013b5bdc9e8efeffcfa2/68747470733a2f2f63646e2d616b2e662e73742d686174656e612e636f6d2f696d616765732f666f746f6c6966652f792f796f7368697368696e6e7a652f32303236303530312f32303236303530313038313030392e706e67" width="400px">
 </p>
 
